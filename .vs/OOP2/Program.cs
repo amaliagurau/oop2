@@ -14,6 +14,7 @@ namespace OOP2
             Console.WriteLine(UEO.Index("123456789"));
 
 
+
         }
     }
 }
